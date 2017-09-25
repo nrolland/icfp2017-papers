@@ -58,7 +58,7 @@ Geoffrey Mainland
 
 Chaperone Contracts for Higher-Order Sessions  
 Hernan Melgratti, Luca Padovani  
-([slides](http://materials.dagstuhl.de/files/17/17051/17051.Hern%C3%A1nMelgratti.Slides.pdf))
+([slides](http://materials.dagstuhl.de/files/17/17051/17051.Hern%C3%A1nMelgratti.Slides.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at start)
 
 Compiling to categories  
 Conal Elliott  
@@ -102,7 +102,7 @@ Conal Elliott
 
 Gradual Session Types  
 Atsushi Igarashi, Peter Thiemann, Vasco Vasconcelos, Philip Wadler  
-([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/gradual-session-ICFP2017.pdf), [slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf))
+([preprint](http://www.fos.kuis.kyoto-u.ac.jp/~igarashi/papers/pdf/gradual-session-ICFP2017.pdf), [slides](http://materials.dagstuhl.de/files/17/17051/17051.PeterThiemann.Slides.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 1h10')
 
 Gradual Typing with Union and Intersection Types  
 Giuseppe Castagna, Victor Lanvin  
@@ -138,7 +138,7 @@ Joachim Breitner, Chris Smith
 
 Manifest Sharing with Session Types  
 Stephanie Balzer, Frank Pfenning  
-([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf))
+([preprint](https://www.cs.cmu.edu/~fp/papers/icfp17.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 47')
 
 A Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
@@ -209,7 +209,7 @@ François Pottier
 
 Whip: Higher-Order Contracts for Modern Services  
 Lucas Waye, Christos Dimoulas, Stephen Chong  
-([preprint](http://people.seas.harvard.edu/~chong/pubs/icfp17-whip.pdf) from [paper webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/))
+([preprint](http://people.seas.harvard.edu/~chong/pubs/icfp17-whip.pdf) from [paper webpage](http://people.seas.harvard.edu/~chong/abstracts/WayeDC2017.html), [language website](http://whip.services/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162360350) at 24')
 
 ## Co-located events
 
