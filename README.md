@@ -166,6 +166,7 @@ Juan Pedro Bolívar Puente
 
 Scaling up Functional Programming Education: under the hood of the OCaml MOOC  
 Benjamin Canou, Roberto Di Cosmo, Grégoire Henry  
+([video](https://livestream.com/oxuni/ICFP-2017/videos/162291585) at 1h13')  
 
 SpaceSearch: A Library for Building and Verifying Solver-Aided Tools  
 Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ernst, Zachary Tatlock  
