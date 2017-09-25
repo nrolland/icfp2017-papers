@@ -62,7 +62,7 @@ Hernan Melgratti, Luca Padovani
 
 Compiling to categories  
 Conal Elliott  
-([preprint](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf), [website](http://conal.net/papers/compiling-to-categories/))
+([preprint](http://conal.net/papers/compiling-to-categories/compiling-to-categories.pdf), [website](http://conal.net/papers/compiling-to-categories/), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at start)
 
 Constrained Type Families  
 J. Garrett Morris, Richard Eisenberg  
@@ -178,7 +178,7 @@ Konstantin Weitz, Steven Lyubomirsky, Stefan Heule, Emina Torlak, Michael D. Ern
 
 Staged Generic Programming  
 Jeremy Yallop  
-([draft](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf))
+([draft](https://www.cl.cam.ac.uk/~jdy22/papers/staged-generic-programming.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at 45')
 
 Super 8, the Story of Making Movies—A Functional Pearl  
 Leif Andersen, Stephen Chang, Asumu Takikawa, Matthias Felleisen  
@@ -205,7 +205,7 @@ Scott Owens, Michael Norrish, Ramana Kumar, Magnus O. Myreen, Yong Kiam Tan
 
 Visitors Unchained  
 François Pottier  
-([preprint](http://gallium.inria.fr/~fpottier/publis/fpottier-visitors-unchained.pdf))
+([preprint](http://gallium.inria.fr/~fpottier/publis/fpottier-visitors-unchained.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162323148) at 23'30'')
 
 Whip: Higher-Order Contracts for Modern Services  
 Lucas Waye, Christos Dimoulas, Stephen Chong  
