@@ -110,7 +110,7 @@ Giuseppe Castagna, Victor Lanvin
 
 Herbarium Racketensis: A Stroll Through the Woods (Functional Pearl)  
 Vincent St-Amour, Daniel Feltey, Spencer P. Florence, Shu-Hung You, Robby Findler  
-([paper](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf))
+([paper](http://users.eecs.northwestern.edu/~stamourv/papers/herbarium-racketensis.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162357490))
 
 How to Prove Your Calculus is Decidable: Practical Applications of Second-order Algebraic Theories and Computation  
 Makoto Hamana  
