@@ -42,7 +42,7 @@ Alejandro Aguirre, Gilles Barthe, Marco Gaboardi, Deepak Garg, Pierre-Yves Strub
 
 A Specification for Dependently-Typed Haskell  
 Stephanie Weirich, Antoine Voizard, Pedro Henrique Avezedo de Amorim, Richard Eisenberg  
-([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf))
+([draft](https://www.seas.upenn.edu/~sweirich/papers/systemd-submission.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at start)
 
 Assuring AI  
 John Launchbury  
@@ -142,7 +142,7 @@ Stephanie Balzer, Frank Pfenning
 
 A Metaprogramming Framework for Formal Verification  
 Gabriel Ebner, Sebastian Ullrich, Jared Roesch, Jeremy Avigad, Leonardo de Moura  
-([preprint](https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf))
+([preprint](https://pp.ipd.kit.edu/uploads/publikationen/ebner17meta.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at 1h08')
 
 No-brainer CPS Conversion  
 Milo Davis, William Meehan, Olin Shivers  
@@ -150,7 +150,7 @@ Milo Davis, William Meehan, Olin Shivers
 
 Normalization by Evaluation for Sized Dependent Types  
 Andreas Abel, Andrea Vezzosi, Theo Winterhalter  
-([preprint](http://www2.tcs.ifi.lmu.de/~abel/icfp17-long.pdf))
+([preprint](http://www2.tcs.ifi.lmu.de/~abel/icfp17-long.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at 45')
 
 On Polymorphic Gradual Typing  
 Yuu Igarashi, Taro Sekiyama, Atsushi Igarashi  
@@ -162,7 +162,7 @@ Yannick Forster, Ohad Kammar, Sam Lindley, Matija Pretnar
 
 Parametric Quantifiers for Dependent Type Theory  
 Andreas Nuyts, Andrea Vezzosi, Dominique Devriese  
-([preprint](https://people.cs.kuleuven.be/~andreas.nuyts/ParametricQuantifiers.pdf))
+([preprint](https://people.cs.kuleuven.be/~andreas.nuyts/ParametricQuantifiers.pdf), [video](https://livestream.com/oxuni/ICFP-2017/videos/162358063) at 26')
 
 Persistence for the masses: RRB-Vectors in a systems language  
 Juan Pedro Bolívar Puente  
